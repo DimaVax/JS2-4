@@ -1,0 +1,16 @@
+{
+  "name": "js2-4",
+  "version": "2.0.0",
+  "description": "hi, im mister bist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "npx http-server -p 8080"
+     
+  },
+  "author": "Mister bist!!",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
